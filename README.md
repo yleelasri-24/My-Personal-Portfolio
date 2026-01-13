@@ -50,6 +50,3 @@ portfolio/
 - ❌ No JavaScript
 - ❌ No frameworks
 - ❌ No Flexbox/Grid 
-    - Headings (`h1`–`h3`)
-    - Paragraphs
-    - Lists (for skills or hobbies)
